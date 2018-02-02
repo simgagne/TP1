@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TP1_1897255_1906143", "TP1_1897255_1906143\TP1_1897255_1906143.vcxproj", "{92E149FB-B956-425F-9987-D537B4C07542}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5B2AC8C1-5533-48E5-B822-6B5BF5B7883B}"
+	ProjectSection(SolutionItems) = preProject
+		client.cpp = client.cpp
+		client.h = client.h
+		Main.cpp = Main.cpp
+		panier.cpp = panier.cpp
+		panier.h = panier.h
+		Produit.cpp = Produit.cpp
+		Produit.h = Produit.h
+		rayon.cpp = rayon.cpp
+		Rayon.h = Rayon.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E149FB-B956-425F-9987-D537B4C07542}.Debug|x64.ActiveCfg = Debug|x64
+		{92E149FB-B956-425F-9987-D537B4C07542}.Debug|x64.Build.0 = Debug|x64
+		{92E149FB-B956-425F-9987-D537B4C07542}.Debug|x86.ActiveCfg = Debug|Win32
+		{92E149FB-B956-425F-9987-D537B4C07542}.Debug|x86.Build.0 = Debug|Win32
+		{92E149FB-B956-425F-9987-D537B4C07542}.Release|x64.ActiveCfg = Release|x64
+		{92E149FB-B956-425F-9987-D537B4C07542}.Release|x64.Build.0 = Release|x64
+		{92E149FB-B956-425F-9987-D537B4C07542}.Release|x86.ActiveCfg = Release|Win32
+		{92E149FB-B956-425F-9987-D537B4C07542}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5B32FC2-9DA4-4549-83A3-76CF7B87DB56}
+	EndGlobalSection
+EndGlobal
